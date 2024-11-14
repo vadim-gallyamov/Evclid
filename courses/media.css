@@ -1,0 +1,157 @@
+@media (max-width: 992px){
+.header__list{
+  margin-right: 30px;
+}
+.header__class__title{
+  font-size: 55px;
+}
+.teachers__item{
+  margin-bottom: 0;
+}
+.advantages__item{
+  margin-top: 40px;
+}
+}
+@media (max-width: 768px){
+.header__class__title{
+    font-size: 50px;
+  }
+.header__list{
+  gap: 45px;
+}
+.advantages__item{
+  margin-top: 40px;
+  }
+.teachers__item{
+  margin-bottom: 0;
+}
+.class__item{
+  min-height: 556px;
+}
+.header__btn{
+  padding: 24px 50px;
+}
+.svg1{
+  background-position: top left;
+  padding-top: 100px;
+  padding-left: 0;
+}
+.svg2{
+  background-position: top left;
+  padding-top: 100px;
+  padding-left: 0;
+  margin-left: 0;
+}
+.svg3{
+  background-position: top left;
+  padding-top: 100px;
+  padding-left: 0;
+  margin-left: 0;
+}
+}
+@media (max-width: 600px){
+.header__container{
+    flex-direction: column;
+    min-height: 133px;
+  }
+.header__logo{
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+.header__list{
+    margin: 0 auto;
+    margin-top: 40px;
+    gap: 56px;
+  }
+.header__img{
+  display: none;
+}
+.teachers__item{
+  margin-bottom: 0;
+}
+.class__item{
+  min-height: 620px;
+}
+.class__btn2{
+  margin-top: 100px;
+}
+}
+@media (max-width: 480px){
+.header__list{
+  overflow: scroll;
+  max-width: 100%;
+  gap: 56px;
+}
+.header__class__title{
+  font-size: 30px;
+  padding-top: 50px;
+}
+.header__class__descr{
+  font-size: 16px;
+  line-height: 130%;
+}
+.header__btn{
+  padding: 21px 54px;
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+.svg1{
+  background-position: left center;
+  padding-left: 100px;
+}
+.svg2{
+  background-position: left center;
+  padding-left: 100px;
+  margin-left: 0;
+}
+.svg3{
+  background-position: left center;
+  padding-left: 100px;
+  margin-left: 0;
+}
+.advantages__img{
+  display: none;
+}
+.advantages__title{
+  font-size: 20px;
+  line-height: 130%;
+}
+.advatages__list{
+  padding-top: 0px;
+}
+.advantages__item{
+  margin-top: 30px;
+  padding-top: 0;
+}
+.teachers{
+  margin-top: 56px;
+}
+.teachers__title{
+  font-size: 20px;
+  padding-top: 50px;
+}
+.teachers__item{
+  margin-bottom: 0;
+}
+.class{
+  margin-top: 50px;
+}
+.class__item{
+  min-height: 653px;
+}
+.class__section__title{
+  font-size: 20px;
+}
+.class__title{
+  font-weight: 130%;
+}
+.class__btn{
+  padding: 20px 50px;
+}
+.class__btn2{
+  padding: 20px 50px;
+}
+.class__btn3{
+  padding: 20px 50px;
+}
+}
